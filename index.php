@@ -20,7 +20,7 @@
 <body>
 <div id="maincContainer">
 	<div id="orderContainer"></div>
-	<div id="menuContainer">Click To Start</div>
+	<div id="menuContainer">Click To Start.</div>
 </div>
 </body>
 </html>
