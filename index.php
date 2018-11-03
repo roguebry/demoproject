@@ -8,19 +8,18 @@
 ?>
 <html>
 <head>
-	<title>Demo Project</title>
+	<title>Tile Solitaire</title>
 
 <!--Required-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <!--Custom-->
 	<script src="js/index.js"></script>
+	<link rel="stylesheet" href="css/index.css" />
 
 </head>
 <body>
-<div id="maincContainer">
-	<div id="orderContainer"></div>
-	<div id="menuContainer">Click To Start.</div>
+<div id="mainContainer">
 </div>
 </body>
 </html>
